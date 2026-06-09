@@ -14,7 +14,7 @@
 
 ---
 
-## Proxy no Mundo Real: Conta Bancaria
+## Proxy no Mundo Real: Conta Bancária
 
 ### Cenário
 
@@ -29,6 +29,7 @@ O **Proxy** vai ser o intermediário que faz tudo isso antes de chamar a conta r
 ---
 
 ## Estrutura do Projeto
+```
 Proxy/
 │
 ├── Interface/
@@ -41,4 +42,4 @@ Proxy/
 │ └── ProxyContaBancaria.cs # O proxy que controla o acesso
 │
 └── Program.cs # Exemplo de uso
-
+```
